@@ -1,1 +1,3 @@
 # meu-primeiro-reposit-rio-1B-2024
+
+Informações sobre o projeto...
